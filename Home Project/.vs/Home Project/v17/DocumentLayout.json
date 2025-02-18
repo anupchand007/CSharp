@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anup\\source\\repos\\Home Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B02F3746-FF02-4D8F-B1AF-FBBC99044729}|Home Project\\Home Project.csproj|c:\\users\\anup\\source\\repos\\home project\\home project\\delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02F3746-FF02-4D8F-B1AF-FBBC99044729}|Home Project\\Home Project.csproj|solutionrelative:home project\\delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02F3746-FF02-4D8F-B1AF-FBBC99044729}|Home Project\\Home Project.csproj|c:\\users\\anup\\source\\repos\\home project\\home project\\home project.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B02F3746-FF02-4D8F-B1AF-FBBC99044729}|Home Project\\Home Project.csproj|solutionrelative:home project\\home project.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 541,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home Project",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\Home Project\\Home Project\\Home Project.csproj",
+              "RelativeDocumentMoniker": "Home Project\\Home Project.csproj",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\Home Project\\Home Project\\Home Project.csproj",
+              "RelativeToolTip": "Home Project\\Home Project.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-23T04:13:19.333Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delegate.cs",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\Home Project\\Home Project\\Delegate.cs",
+              "RelativeDocumentMoniker": "Home Project\\Delegate.cs",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\Home Project\\Home Project\\Delegate.cs",
+              "RelativeToolTip": "Home Project\\Delegate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T02:27:18.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 164,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

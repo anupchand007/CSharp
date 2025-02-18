@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anup\\source\\repos\\Chapter_WISE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38E4B02A-69BF-413A-942C-BF6AE86B4B8C}|Chapter_WISE\\Chapter_WISE.csproj|c:\\users\\anup\\source\\repos\\chapter_wise\\chapter_wise\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E4B02A-69BF-413A-942C-BF6AE86B4B8C}|Chapter_WISE\\Chapter_WISE.csproj|solutionrelative:chapter_wise\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E4B02A-69BF-413A-942C-BF6AE86B4B8C}|Chapter_WISE\\Chapter_WISE.csproj|c:\\users\\anup\\source\\repos\\chapter_wise\\chapter_wise\\chapter_wise.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{38E4B02A-69BF-413A-942C-BF6AE86B4B8C}|Chapter_WISE\\Chapter_WISE.csproj|solutionrelative:chapter_wise\\chapter_wise.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chapter_WISE",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\Chapter_WISE\\Chapter_WISE\\Chapter_WISE.csproj",
+              "RelativeDocumentMoniker": "Chapter_WISE\\Chapter_WISE.csproj",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\Chapter_WISE\\Chapter_WISE\\Chapter_WISE.csproj",
+              "RelativeToolTip": "Chapter_WISE\\Chapter_WISE.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-18T11:47:29.12Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Array.cs",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\Chapter_WISE\\Chapter_WISE\\Array.cs",
+              "RelativeDocumentMoniker": "Chapter_WISE\\Array.cs",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\Chapter_WISE\\Chapter_WISE\\Array.cs",
+              "RelativeToolTip": "Chapter_WISE\\Array.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T16:20:52.633Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

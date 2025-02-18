@@ -1,0 +1,14 @@
+C:\Users\Anup\source\repos\Chapter_WISE\Chapter_WISE\obj\Debug\net8.0\Chapter_WISE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anup\source\repos\Chapter_WISE\Chapter_WISE\obj\Debug\net8.0\Chapter_WISE.AssemblyInfoInputs.cache
+C:\Users\Anup\source\repos\Chapter_WISE\Chapter_WISE\obj\Debug\net8.0\Chapter_WISE.AssemblyInfo.cs
+C:\Users\Anup\source\repos\Chapter_WISE\Chapter_WISE\obj\Debug\net8.0\Chapter_WISE.csproj.CoreCompileInputs.cache
+C:\Users\Anup\source\repos\Chapter_WISE\Chapter_WISE\bin\Debug\net8.0\Chapter_WISE.exe
+C:\Users\Anup\source\repos\Chapter_WISE\Chapter_WISE\bin\Debug\net8.0\Chapter_WISE.deps.json
+C:\Users\Anup\source\repos\Chapter_WISE\Chapter_WISE\bin\Debug\net8.0\Chapter_WISE.runtimeconfig.json
+C:\Users\Anup\source\repos\Chapter_WISE\Chapter_WISE\bin\Debug\net8.0\Chapter_WISE.dll
+C:\Users\Anup\source\repos\Chapter_WISE\Chapter_WISE\bin\Debug\net8.0\Chapter_WISE.pdb
+C:\Users\Anup\source\repos\Chapter_WISE\Chapter_WISE\obj\Debug\net8.0\Chapter_WISE.dll
+C:\Users\Anup\source\repos\Chapter_WISE\Chapter_WISE\obj\Debug\net8.0\refint\Chapter_WISE.dll
+C:\Users\Anup\source\repos\Chapter_WISE\Chapter_WISE\obj\Debug\net8.0\Chapter_WISE.pdb
+C:\Users\Anup\source\repos\Chapter_WISE\Chapter_WISE\obj\Debug\net8.0\Chapter_WISE.genruntimeconfig.cache
+C:\Users\Anup\source\repos\Chapter_WISE\Chapter_WISE\obj\Debug\net8.0\ref\Chapter_WISE.dll
