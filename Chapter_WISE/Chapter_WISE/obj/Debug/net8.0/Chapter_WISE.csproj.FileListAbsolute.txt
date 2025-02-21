@@ -12,3 +12,4 @@ C:\Users\Anup\source\repos\Chapter_WISE\Chapter_WISE\obj\Debug\net8.0\refint\Cha
 C:\Users\Anup\source\repos\Chapter_WISE\Chapter_WISE\obj\Debug\net8.0\Chapter_WISE.pdb
 C:\Users\Anup\source\repos\Chapter_WISE\Chapter_WISE\obj\Debug\net8.0\Chapter_WISE.genruntimeconfig.cache
 C:\Users\Anup\source\repos\Chapter_WISE\Chapter_WISE\obj\Debug\net8.0\ref\Chapter_WISE.dll
+C:\Users\Anup\source\repos\Chapter_WISE\Chapter_WISE\obj\Debug\net8.0\Chapter_WISE.sourcelink.json

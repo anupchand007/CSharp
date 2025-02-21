@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Anup\\source\\repos\\Chapter_WISE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38E4B02A-69BF-413A-942C-BF6AE86B4B8C}|Chapter_WISE\\Chapter_WISE.csproj|c:\\users\\anup\\source\\repos\\chapter_wise\\chapter_wise\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38E4B02A-69BF-413A-942C-BF6AE86B4B8C}|Chapter_WISE\\Chapter_WISE.csproj|solutionrelative:chapter_wise\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38E4B02A-69BF-413A-942C-BF6AE86B4B8C}|Chapter_WISE\\Chapter_WISE.csproj|c:\\users\\anup\\source\\repos\\chapter_wise\\chapter_wise\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E4B02A-69BF-413A-942C-BF6AE86B4B8C}|Chapter_WISE\\Chapter_WISE.csproj|solutionrelative:chapter_wise\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38E4B02A-69BF-413A-942C-BF6AE86B4B8C}|Chapter_WISE\\Chapter_WISE.csproj|c:\\users\\anup\\source\\repos\\chapter_wise\\chapter_wise\\chapter_wise.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -36,15 +36,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Array.cs",
-              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\Chapter_WISE\\Chapter_WISE\\Array.cs",
-              "RelativeDocumentMoniker": "Chapter_WISE\\Array.cs",
-              "ToolTip": "C:\\Users\\Anup\\source\\repos\\Chapter_WISE\\Chapter_WISE\\Array.cs",
-              "RelativeToolTip": "Chapter_WISE\\Array.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Title": "Interface.cs",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\Chapter_WISE\\Chapter_WISE\\Interface.cs",
+              "RelativeDocumentMoniker": "Chapter_WISE\\Interface.cs",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\Chapter_WISE\\Chapter_WISE\\Interface.cs*",
+              "RelativeToolTip": "Chapter_WISE\\Interface.cs*",
+              "ViewState": "AgIAADQAAAAAAAAAAAAUwE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T16:20:52.633Z",
+              "WhenOpened": "2025-02-21T03:17:30.043Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         },
