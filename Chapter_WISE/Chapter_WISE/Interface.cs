@@ -1,6 +1,9 @@
 ﻿namespace Chapter_WISE
 {
     internal class Interfaces
+    //Interface allows to inhertis multiple classes as shown below;
+    // We use I + class name while writing for E.g: IPerson
+
     {
         interface IPrey
         {
@@ -63,17 +66,5 @@
 
 
 
-        //interface IAnimal
-        //{
-        //    public void Speak();
-        //}
-
-        //class Dog: IAnimal { 
-        //public void Speak()
-        //    {
-        //        Console.WriteLine("Barks");
-        //    }
-
-        //}
     }
 }

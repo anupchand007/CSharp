@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Anup\\source\\repos\\Chapter_WISE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38E4B02A-69BF-413A-942C-BF6AE86B4B8C}|Chapter_WISE\\Chapter_WISE.csproj|c:\\users\\anup\\source\\repos\\chapter_wise\\chapter_wise\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38E4B02A-69BF-413A-942C-BF6AE86B4B8C}|Chapter_WISE\\Chapter_WISE.csproj|solutionrelative:chapter_wise\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38E4B02A-69BF-413A-942C-BF6AE86B4B8C}|Chapter_WISE\\Chapter_WISE.csproj|c:\\users\\anup\\source\\repos\\chapter_wise\\chapter_wise\\delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E4B02A-69BF-413A-942C-BF6AE86B4B8C}|Chapter_WISE\\Chapter_WISE.csproj|solutionrelative:chapter_wise\\delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38E4B02A-69BF-413A-942C-BF6AE86B4B8C}|Chapter_WISE\\Chapter_WISE.csproj|c:\\users\\anup\\source\\repos\\chapter_wise\\chapter_wise\\chapter_wise.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{38E4B02A-69BF-413A-942C-BF6AE86B4B8C}|Chapter_WISE\\Chapter_WISE.csproj|solutionrelative:chapter_wise\\chapter_wise.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E4B02A-69BF-413A-942C-BF6AE86B4B8C}|Chapter_WISE\\Chapter_WISE.csproj|c:\\users\\anup\\source\\repos\\chapter_wise\\chapter_wise\\generics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E4B02A-69BF-413A-942C-BF6AE86B4B8C}|Chapter_WISE\\Chapter_WISE.csproj|solutionrelative:chapter_wise\\generics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E4B02A-69BF-413A-942C-BF6AE86B4B8C}|Chapter_WISE\\Chapter_WISE.csproj|c:\\users\\anup\\source\\repos\\chapter_wise\\chapter_wise\\method_hiding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E4B02A-69BF-413A-942C-BF6AE86B4B8C}|Chapter_WISE\\Chapter_WISE.csproj|solutionrelative:chapter_wise\\method_hiding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E4B02A-69BF-413A-942C-BF6AE86B4B8C}|Chapter_WISE\\Chapter_WISE.csproj|c:\\users\\anup\\source\\repos\\chapter_wise\\chapter_wise\\partial_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E4B02A-69BF-413A-942C-BF6AE86B4B8C}|Chapter_WISE\\Chapter_WISE.csproj|solutionrelative:chapter_wise\\partial_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E4B02A-69BF-413A-942C-BF6AE86B4B8C}|Chapter_WISE\\Chapter_WISE.csproj|c:\\users\\anup\\source\\repos\\chapter_wise\\chapter_wise\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E4B02A-69BF-413A-942C-BF6AE86B4B8C}|Chapter_WISE\\Chapter_WISE.csproj|solutionrelative:chapter_wise\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,14 +52,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Interface.cs",
-              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\Chapter_WISE\\Chapter_WISE\\Interface.cs",
-              "RelativeDocumentMoniker": "Chapter_WISE\\Interface.cs",
-              "ToolTip": "C:\\Users\\Anup\\source\\repos\\Chapter_WISE\\Chapter_WISE\\Interface.cs",
-              "RelativeToolTip": "Chapter_WISE\\Interface.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAwCoAAAAAAAAAAAAAAA==",
+              "Title": "Delegate.cs",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\Chapter_WISE\\Chapter_WISE\\Delegate.cs",
+              "RelativeDocumentMoniker": "Chapter_WISE\\Delegate.cs",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\Chapter_WISE\\Chapter_WISE\\Delegate.cs",
+              "RelativeToolTip": "Chapter_WISE\\Delegate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T03:17:30.043Z",
+              "WhenOpened": "2025-02-23T04:48:04.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Method_Hiding.cs",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\Chapter_WISE\\Chapter_WISE\\Method_Hiding.cs",
+              "RelativeDocumentMoniker": "Chapter_WISE\\Method_Hiding.cs",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\Chapter_WISE\\Chapter_WISE\\Method_Hiding.cs",
+              "RelativeToolTip": "Chapter_WISE\\Method_Hiding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T04:03:50.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Partial_Class.cs",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\Chapter_WISE\\Chapter_WISE\\Partial_Class.cs",
+              "RelativeDocumentMoniker": "Chapter_WISE\\Partial_Class.cs",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\Chapter_WISE\\Chapter_WISE\\Partial_Class.cs",
+              "RelativeToolTip": "Chapter_WISE\\Partial_Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T03:44:56.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Generics.cs",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\Chapter_WISE\\Chapter_WISE\\Generics.cs",
+              "RelativeDocumentMoniker": "Chapter_WISE\\Generics.cs",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\Chapter_WISE\\Chapter_WISE\\Generics.cs",
+              "RelativeToolTip": "Chapter_WISE\\Generics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T02:57:44.991Z",
               "EditorCaption": ""
             },
             {
@@ -53,6 +108,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Interface.cs",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\Chapter_WISE\\Chapter_WISE\\Interface.cs",
+              "RelativeDocumentMoniker": "Chapter_WISE\\Interface.cs",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\Chapter_WISE\\Chapter_WISE\\Interface.cs",
+              "RelativeToolTip": "Chapter_WISE\\Interface.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T03:17:30.043Z",
+              "EditorCaption": ""
             }
           ]
         },
