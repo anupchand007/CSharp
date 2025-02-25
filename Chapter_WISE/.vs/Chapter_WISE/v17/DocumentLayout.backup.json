@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -46,8 +46,15 @@
               "RelativeToolTip": "Chapter_WISE\\Chapter_WISE.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-02-18T11:47:29.12Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
@@ -57,7 +64,7 @@
               "RelativeDocumentMoniker": "Chapter_WISE\\Delegate.cs",
               "ToolTip": "C:\\Users\\Anup\\source\\repos\\Chapter_WISE\\Chapter_WISE\\Delegate.cs",
               "RelativeToolTip": "Chapter_WISE\\Delegate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA4wCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-23T04:48:04.859Z",
               "EditorCaption": ""
@@ -72,8 +79,7 @@
               "RelativeToolTip": "Chapter_WISE\\Method_Hiding.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T04:03:50.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T04:03:50.767Z"
             },
             {
               "$type": "Document",
@@ -85,8 +91,7 @@
               "RelativeToolTip": "Chapter_WISE\\Partial_Class.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T03:44:56.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T03:44:56.249Z"
             },
             {
               "$type": "Document",
@@ -98,16 +103,7 @@
               "RelativeToolTip": "Chapter_WISE\\Generics.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T02:57:44.991Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "WhenOpened": "2025-02-23T02:57:44.991Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "Chapter_WISE\\Interface.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAcwCIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T03:17:30.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T03:17:30.043Z"
             }
           ]
         },

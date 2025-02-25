@@ -2,7 +2,7 @@
 {
     internal class Interfaces
     //Interface allows to inhertis multiple classes as shown below;
-    // We use I + class name while writing for E.g: IPerson
+    // We use I + class name while writing for E.g: IPerson, IPrey, IPredator 
 
     {
         interface IPrey

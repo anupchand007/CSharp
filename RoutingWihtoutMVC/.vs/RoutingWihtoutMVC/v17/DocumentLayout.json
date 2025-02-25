@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anup\\source\\repos\\RoutingWihtoutMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60F34E60-3DCE-480F-8456-947064736FAE}|RoutingWihtoutMVC\\RoutingWihtoutMVC.csproj|c:\\users\\anup\\source\\repos\\routingwihtoutmvc\\routingwihtoutmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F34E60-3DCE-480F-8456-947064736FAE}|RoutingWihtoutMVC\\RoutingWihtoutMVC.csproj|solutionrelative:routingwihtoutmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F34E60-3DCE-480F-8456-947064736FAE}|RoutingWihtoutMVC\\RoutingWihtoutMVC.csproj|c:\\users\\anup\\source\\repos\\routingwihtoutmvc\\routingwihtoutmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F34E60-3DCE-480F-8456-947064736FAE}|RoutingWihtoutMVC\\RoutingWihtoutMVC.csproj|solutionrelative:routingwihtoutmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\RoutingWihtoutMVC\\RoutingWihtoutMVC\\Program.cs",
+              "RelativeDocumentMoniker": "RoutingWihtoutMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\RoutingWihtoutMVC\\RoutingWihtoutMVC\\Program.cs",
+              "RelativeToolTip": "RoutingWihtoutMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T12:14:03.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\RoutingWihtoutMVC\\RoutingWihtoutMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RoutingWihtoutMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\RoutingWihtoutMVC\\RoutingWihtoutMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RoutingWihtoutMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAACzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T12:21:08.958Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
