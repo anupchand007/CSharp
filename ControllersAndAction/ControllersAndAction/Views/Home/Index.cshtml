@@ -1,0 +1,55 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+
+
+}
+
+<h1>Index with Anup Chand</h1>
+
+@* //inline expression doesn't need semicolon at last *@
+
+<h1>Current Date and Time is @DateTime.Now</h1> 
+<h1>Current Date and Time is @DateTime.Now.Year</h1>
+
+
+@{
+    //multiple lines of codes need semicolon
+
+    //decalre variable with var keyword
+    var Name = "Anup Chand";
+    var age = 30;
+}
+
+<h3>Name: @Name</h3>
+<h3>Age: @age</h3>
+
+
+@{
+    var Myname = "Anup Chand";
+    int age2 = 22;
+    if(Myname == "Anup"){
+        <h2>Welcome Anup </h2>
+    }else{
+        <h2>You are not anup </h2>
+    }
+    if (age2 == 22)
+    {
+        <h2>Welcome Anup2 </h2>
+    }
+    else
+    {
+        <h2>You are not anup2 </h2>
+    }
+    for(int i = 0; i<=10; i++){
+        <h4>@i</h4>
+    }
+}
+
+@{
+    string[] names = { "Anup", "Sumit", "Ananta" };
+
+    foreach(var ij  in names){
+        <h3>@ij</h3>
+    }
+}
