@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anup\\source\\repos\\ReposiortyPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C966D8A-EA6A-45C3-BA85-F93E3AB7A8D1}|ReposiortyPattern\\ReposiortyPattern.csproj|c:\\users\\anup\\source\\repos\\reposiortypattern\\reposiortypattern\\repository\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C966D8A-EA6A-45C3-BA85-F93E3AB7A8D1}|ReposiortyPattern\\ReposiortyPattern.csproj|solutionrelative:reposiortypattern\\repository\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C966D8A-EA6A-45C3-BA85-F93E3AB7A8D1}|ReposiortyPattern\\ReposiortyPattern.csproj|c:\\users\\anup\\source\\repos\\reposiortypattern\\reposiortypattern\\repository\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C966D8A-EA6A-45C3-BA85-F93E3AB7A8D1}|ReposiortyPattern\\ReposiortyPattern.csproj|solutionrelative:reposiortypattern\\repository\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C966D8A-EA6A-45C3-BA85-F93E3AB7A8D1}|ReposiortyPattern\\ReposiortyPattern.csproj|c:\\users\\anup\\source\\repos\\reposiortypattern\\reposiortypattern\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C966D8A-EA6A-45C3-BA85-F93E3AB7A8D1}|ReposiortyPattern\\ReposiortyPattern.csproj|solutionrelative:reposiortypattern\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C966D8A-EA6A-45C3-BA85-F93E3AB7A8D1}|ReposiortyPattern\\ReposiortyPattern.csproj|c:\\users\\anup\\source\\repos\\reposiortypattern\\reposiortypattern\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C966D8A-EA6A-45C3-BA85-F93E3AB7A8D1}|ReposiortyPattern\\ReposiortyPattern.csproj|solutionrelative:reposiortypattern\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\ReposiortyPattern\\ReposiortyPattern\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ReposiortyPattern\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\ReposiortyPattern\\ReposiortyPattern\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ReposiortyPattern\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:21:31.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\ReposiortyPattern\\ReposiortyPattern\\Repository\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "ReposiortyPattern\\Repository\\StudentRepo.cs",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\ReposiortyPattern\\ReposiortyPattern\\Repository\\StudentRepo.cs*",
+              "RelativeToolTip": "ReposiortyPattern\\Repository\\StudentRepo.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:16:46.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\ReposiortyPattern\\ReposiortyPattern\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "ReposiortyPattern\\Models\\StudentModel.cs",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\ReposiortyPattern\\ReposiortyPattern\\Models\\StudentModel.cs*",
+              "RelativeToolTip": "ReposiortyPattern\\Models\\StudentModel.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:15:18.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IStudent.cs",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\ReposiortyPattern\\ReposiortyPattern\\Repository\\IStudent.cs",
+              "RelativeDocumentMoniker": "ReposiortyPattern\\Repository\\IStudent.cs",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\ReposiortyPattern\\ReposiortyPattern\\Repository\\IStudent.cs",
+              "RelativeToolTip": "ReposiortyPattern\\Repository\\IStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:13:54.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

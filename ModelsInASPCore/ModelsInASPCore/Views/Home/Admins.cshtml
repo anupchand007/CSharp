@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewData["Title"] = "Admins";
+    var Admins = ViewBag.Admins;
+}
+
+<h1>Welcome Dear, Admins</h1>
+<h3>This Page is Only For Admins to check their Access Data</h3>
+
+<table border="2">
+
+    <tr style="border: 2px solid black">
+        <th style="border: 2px solid black">Admin Name</th>
+        <th style="border: 2px solid black">Admin Roles</th>
+        <th style="border: 2px solid black">Admin Access</th>
+    </tr>
+
+    @foreach(var data in Admins){
+        <tr style="border: 2px solid black">
+            <td style="border: 2px solid black">@data.AdminName</td>
+            <td style="border: 2px solid black"> @data.AdminRole</td>
+            <td style="border: 2px solid black">@data.AdminAccess</td>
+        </tr>
+    }
+
+
+</table>
+

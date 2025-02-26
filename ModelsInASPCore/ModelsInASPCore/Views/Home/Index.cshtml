@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    var student = ViewBag.students;
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+@*     <table border="3">
+
+        <tr border="3">
+            <th>Name </th>
+            <th>Age </th>
+            <th>Class </th>
+            <th>Gender </th>
+        </tr>
+            
+         @foreach(var i in student){
+            <tr>
+                    <td>@i.Name</td>
+                    <td>@i.Age</td>
+                    <td>@i.Standard</td>
+                    <td>@i.Gender</td>
+            </tr>
+         }
+
+    </table> *@
+</div>
