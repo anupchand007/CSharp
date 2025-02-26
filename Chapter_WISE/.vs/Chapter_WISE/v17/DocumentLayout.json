@@ -3,6 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\Anup\\source\\repos\\Chapter_WISE\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anup\\source\\repos\\ControllersAndAction\\ControllersAndAction\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E4B02A-69BF-413A-942C-BF6AE86B4B8C}|Chapter_WISE\\Chapter_WISE.csproj|c:\\users\\anup\\source\\repos\\chapter_wise\\chapter_wise\\delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E4B02A-69BF-413A-942C-BF6AE86B4B8C}|Chapter_WISE\\Chapter_WISE.csproj|solutionrelative:chapter_wise\\delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{38E4B02A-69BF-413A-942C-BF6AE86B4B8C}|Chapter_WISE\\Chapter_WISE.csproj|c:\\users\\anup\\source\\repos\\chapter_wise\\chapter_wise\\chapter_wise.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{38E4B02A-69BF-413A-942C-BF6AE86B4B8C}|Chapter_WISE\\Chapter_WISE.csproj|solutionrelative:chapter_wise\\chapter_wise.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
@@ -14,11 +21,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Chapter_WISE",
               "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\Chapter_WISE\\Chapter_WISE\\Chapter_WISE.csproj",
               "RelativeDocumentMoniker": "Chapter_WISE\\Chapter_WISE.csproj",
@@ -30,12 +37,34 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\ControllersAndAction\\ControllersAndAction\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\ControllersAndAction\\ControllersAndAction\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\ControllersAndAction\\ControllersAndAction\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\ControllersAndAction\\ControllersAndAction\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T07:20:35.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delegate.cs",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\Chapter_WISE\\Chapter_WISE\\Delegate.cs",
+              "RelativeDocumentMoniker": "Chapter_WISE\\Delegate.cs",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\Chapter_WISE\\Chapter_WISE\\Delegate.cs",
+              "RelativeToolTip": "Chapter_WISE\\Delegate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T07:10:41.854Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         },

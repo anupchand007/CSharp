@@ -1,55 +1,145 @@
 ﻿
 @{
     ViewData["Title"] = "Index";
-
-
+    // Layout = "~/Views/Shared/_Layout.cshtml";
+    // Layout = "~/Views/Shared/Index_Layout.cshtml"; 
+    //when decalred explicitilly it will give more priority to this layout and not to _layout.cshtml(Master Page) page
+    Layout = null; 
+                 //none of the layout will be attached
 }
 
 <h1>Index with Anup Chand</h1>
+<p>This is my Home Page</p>
+
+
+@* 1. ViewData Content 
+
+@ViewData["Name"] 
+<br> 
+@ViewData["Age"] 
+<br> *
+@ViewData["Time"]
+ <br>
+
+@{ 
+    foreach (var i in (string[])ViewData["Array"]) 
+    { 
+         <h2>@i</h2> 
+     } 
+
+    foreach (var i in (List<String>)ViewData["Games"]){
+        <h2>@i</h2> 
+    }
+ } 
+ *@
+
+@* 2. ViewBag Content 
+
+@ViewBag.data1
+<br/>
+@ViewBag.data2
+<br />
+@ViewBag.data3
+<br />
+@ViewBag.data       //accessing ViewData content  by ViewBag
+<br />
+@ViewData["Me"];    //accessing ViewBag content  by ViewData
+
+@{
+    foreach (var i in ViewBag.data4){
+        <h2>@i</h2>
+    }
+}
+ 
+
+@{
+    foreach (var x in ViewBag.data5){
+        <h2>@x</h2>
+    }
+} 
+*@
+
+
+@* 3.TempData *@
+
+@ViewData["data1"]
+@ViewBag.data2
+@TempData["data3"] 
+
+@* @{
+    if(TempData["Games"] != null){
+        foreach (var i in (List<string>)TempData["Games"])
+        {
+            <h2>@i</h2>
+        };
+    }else{
+        <h2>No Data Found!</h2>
+    }
+    
+} *@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 @* //inline expression doesn't need semicolon at last *@
 
-<h1>Current Date and Time is @DateTime.Now</h1> 
-<h1>Current Date and Time is @DateTime.Now.Year</h1>
+@* <h1>Current Date and Time is @DateTime.Now</h1>  *@
+@* <h1>Current Date and Time is @DateTime.Now.Year</h1> *@
 
 
-@{
-    //multiple lines of codes need semicolon
+@* @{ *@
+@*     //multiple lines of codes need semicolon *@
 
-    //decalre variable with var keyword
-    var Name = "Anup Chand";
-    var age = 30;
-}
+@*     //decalre variable with var keyword *@
+@*     var Name = "Anup Chand"; *@
+@*     var age = 30; *@
+@* } *@
 
-<h3>Name: @Name</h3>
-<h3>Age: @age</h3>
+@* <h3>Name: @Name</h3> *@
+@* <h3>Age: @age</h3> *@
 
 
-@{
-    var Myname = "Anup Chand";
-    int age2 = 22;
-    if(Myname == "Anup"){
-        <h2>Welcome Anup </h2>
-    }else{
-        <h2>You are not anup </h2>
-    }
-    if (age2 == 22)
-    {
-        <h2>Welcome Anup2 </h2>
-    }
-    else
-    {
-        <h2>You are not anup2 </h2>
-    }
-    for(int i = 0; i<=10; i++){
-        <h4>@i</h4>
-    }
-}
+@* @{ *@
+@*     var Myname = "Anup Chand"; *@
+@*     int age2 = 22; *@
+@*     if(Myname == "Anup"){ *@
+@*         <h2>Welcome Anup </h2> *@
+@*     }else{ *@
+@*         <h2>You are not anup </h2> *@
+@*     } *@
+@*     if (age2 == 22) *@
+@*     { *@
+@*         <h2>Welcome Anup2 </h2> *@
+@*     } *@
+@*     else *@
+@*     { *@
+@*         <h2>You are not anup2 </h2> *@
+@*     } *@
+@*     for(int i = 0; i<=10; i++){ *@
+@*         <h4>@i</h4> *@
+@*     } *@
+@* } *@
 
-@{
-    string[] names = { "Anup", "Sumit", "Ananta" };
+@* @{ *@
+@*     string[] names = { "Anup", "Sumit", "Ananta" }; *@
 
-    foreach(var ij  in names){
-        <h3>@ij</h3>
-    }
-}
+@*     foreach(var ij  in names){ *@
+@*         <h3>@ij</h3> *@
+@*     } *@
+@* } *@

@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Anup\\source\\repos\\ControllersAndAction\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9565E5AE-3723-45C2-AF53-4B41218DDA0D}|ControllersAndAction\\ControllersAndAction.csproj|c:\\users\\anup\\source\\repos\\controllersandaction\\controllersandaction\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9565E5AE-3723-45C2-AF53-4B41218DDA0D}|ControllersAndAction\\ControllersAndAction.csproj|solutionrelative:controllersandaction\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9565E5AE-3723-45C2-AF53-4B41218DDA0D}|ControllersAndAction\\ControllersAndAction.csproj|c:\\users\\anup\\source\\repos\\controllersandaction\\controllersandaction\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9565E5AE-3723-45C2-AF53-4B41218DDA0D}|ControllersAndAction\\ControllersAndAction.csproj|solutionrelative:controllersandaction\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9565E5AE-3723-45C2-AF53-4B41218DDA0D}|ControllersAndAction\\ControllersAndAction.csproj|c:\\users\\anup\\source\\repos\\controllersandaction\\controllersandaction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9565E5AE-3723-45C2-AF53-4B41218DDA0D}|ControllersAndAction\\ControllersAndAction.csproj|solutionrelative:controllersandaction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9565E5AE-3723-45C2-AF53-4B41218DDA0D}|ControllersAndAction\\ControllersAndAction.csproj|c:\\users\\anup\\source\\repos\\controllersandaction\\controllersandaction\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9565E5AE-3723-45C2-AF53-4B41218DDA0D}|ControllersAndAction\\ControllersAndAction.csproj|solutionrelative:controllersandaction\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9565E5AE-3723-45C2-AF53-4B41218DDA0D}|ControllersAndAction\\ControllersAndAction.csproj|c:\\users\\anup\\source\\repos\\controllersandaction\\controllersandaction\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9565E5AE-3723-45C2-AF53-4B41218DDA0D}|ControllersAndAction\\ControllersAndAction.csproj|solutionrelative:controllersandaction\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9565E5AE-3723-45C2-AF53-4B41218DDA0D}|ControllersAndAction\\ControllersAndAction.csproj|c:\\users\\anup\\source\\repos\\controllersandaction\\controllersandaction\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9565E5AE-3723-45C2-AF53-4B41218DDA0D}|ControllersAndAction\\ControllersAndAction.csproj|solutionrelative:controllersandaction\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +26,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\ControllersAndAction\\ControllersAndAction\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ControllersAndAction\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Anup\\source\\repos\\ControllersAndAction\\ControllersAndAction\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ControllersAndAction\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAACAAAAAAAAAAAADwvzIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-25T11:33:41.028Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\ControllersAndAction\\ControllersAndAction\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ControllersAndAction\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Anup\\source\\repos\\ControllersAndAction\\ControllersAndAction\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ControllersAndAction\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T11:04:51.363Z",
+              "DocumentIndex": 3,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\ControllersAndAction\\ControllersAndAction\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "ControllersAndAction\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\ControllersAndAction\\ControllersAndAction\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "ControllersAndAction\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T08:15:54.267Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\ControllersAndAction\\ControllersAndAction\\Program.cs",
-              "RelativeDocumentMoniker": "ControllersAndAction\\Program.cs",
-              "ToolTip": "C:\\Users\\Anup\\source\\repos\\ControllersAndAction\\ControllersAndAction\\Program.cs",
-              "RelativeToolTip": "ControllersAndAction\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\ControllersAndAction\\ControllersAndAction\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "ControllersAndAction\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\ControllersAndAction\\ControllersAndAction\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "ControllersAndAction\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T08:15:53.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\ControllersAndAction\\ControllersAndAction\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ControllersAndAction\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\ControllersAndAction\\ControllersAndAction\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ControllersAndAction\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T05:16:42.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\ControllersAndAction\\ControllersAndAction\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ControllersAndAction\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\ControllersAndAction\\ControllersAndAction\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ControllersAndAction\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwEMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T11:03:17.812Z",
+              "WhenOpened": "2025-02-25T11:04:51.363Z",
               "EditorCaption": ""
             }
           ]
