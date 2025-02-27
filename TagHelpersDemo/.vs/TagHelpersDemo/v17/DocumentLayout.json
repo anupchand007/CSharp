@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anup\\source\\repos\\TagHelpersDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABDB236-D16C-4DBE-A880-C110FA5C9EFC}|TagHelpersDemo\\TagHelpersDemo.csproj|c:\\users\\anup\\source\\repos\\taghelpersdemo\\taghelpersdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABDB236-D16C-4DBE-A880-C110FA5C9EFC}|TagHelpersDemo\\TagHelpersDemo.csproj|solutionrelative:taghelpersdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABDB236-D16C-4DBE-A880-C110FA5C9EFC}|TagHelpersDemo\\TagHelpersDemo.csproj|c:\\users\\anup\\source\\repos\\taghelpersdemo\\taghelpersdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0ABDB236-D16C-4DBE-A880-C110FA5C9EFC}|TagHelpersDemo\\TagHelpersDemo.csproj|solutionrelative:taghelpersdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABDB236-D16C-4DBE-A880-C110FA5C9EFC}|TagHelpersDemo\\TagHelpersDemo.csproj|c:\\users\\anup\\source\\repos\\taghelpersdemo\\taghelpersdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABDB236-D16C-4DBE-A880-C110FA5C9EFC}|TagHelpersDemo\\TagHelpersDemo.csproj|solutionrelative:taghelpersdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABDB236-D16C-4DBE-A880-C110FA5C9EFC}|TagHelpersDemo\\TagHelpersDemo.csproj|c:\\users\\anup\\source\\repos\\taghelpersdemo\\taghelpersdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABDB236-D16C-4DBE-A880-C110FA5C9EFC}|TagHelpersDemo\\TagHelpersDemo.csproj|solutionrelative:taghelpersdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABDB236-D16C-4DBE-A880-C110FA5C9EFC}|TagHelpersDemo\\TagHelpersDemo.csproj|c:\\users\\anup\\source\\repos\\taghelpersdemo\\taghelpersdemo\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0ABDB236-D16C-4DBE-A880-C110FA5C9EFC}|TagHelpersDemo\\TagHelpersDemo.csproj|solutionrelative:taghelpersdemo\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\TagHelpersDemo\\TagHelpersDemo\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "TagHelpersDemo\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\TagHelpersDemo\\TagHelpersDemo\\Models\\Employee.cs",
+              "RelativeToolTip": "TagHelpersDemo\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T06:59:21.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\TagHelpersDemo\\TagHelpersDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TagHelpersDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\TagHelpersDemo\\TagHelpersDemo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TagHelpersDemo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T04:38:33.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\TagHelpersDemo\\TagHelpersDemo\\Program.cs",
+              "RelativeDocumentMoniker": "TagHelpersDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\TagHelpersDemo\\TagHelpersDemo\\Program.cs",
+              "RelativeToolTip": "TagHelpersDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T05:01:46.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\TagHelpersDemo\\TagHelpersDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TagHelpersDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\TagHelpersDemo\\TagHelpersDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TagHelpersDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T04:38:50.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\TagHelpersDemo\\TagHelpersDemo\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "TagHelpersDemo\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\TagHelpersDemo\\TagHelpersDemo\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "TagHelpersDemo\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T04:39:59.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

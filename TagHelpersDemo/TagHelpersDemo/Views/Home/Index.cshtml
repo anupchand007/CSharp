@@ -1,0 +1,73 @@
+﻿@model Employee;
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@* <a href="/Home/Edit/1">Edit Page 1</a>
+<br/>
+
+@Html.ActionLink("Contact Page 2", "Edit", "Home", new{id = 1}) @* //will provide a anchor link 
+<br/>
+
+<a href="@Url.Action("Edit","Home",new{id = 1})">Edit Page 3</a>
+<br /> 
+
+@* //using taghelper 
+<a asp-controller="Home" asp-action="Edit" asp-route-id="1">Edit Page 4</a>
+*@
+
+
+@* <a href="/Home/Contact">Contact 1</a>
+<br />
+@* //using taghelper 
+<a asp-controller="Home" asp-action="Contact">Contact Page 4</a>
+ *@
+
+ <div class="container">
+     <div class="row">
+         <div class="col-sm-4">
+
+            <form asp-controller="Home" asp-action="Process" method="post">
+
+                <label asp-for="Name">Enter Name</label>
+                <input asp-for="Name" placeholder="Enter name" class="form-control"/>
+                <br />
+                <label asp-for="EmpID">EmpId</label>
+                <input asp-for="EmpID" placeholder="Enter Employee ID" class="form-control" />
+                <br />
+                <label asp-for="Salary">Salary</label>
+                <input asp-for="Salary" placeholder="Enter Salary" class="form-control" />
+                <br />
+                <label asp-for="Gender">Gender</label>
+                <input type="radio" asp-for="Gender" value="Male" /> Male
+                <input type="radio" asp-for="Gender" value="Female" /> Female
+                <br />
+                <br />
+                DOB
+                <br />
+                <br />
+                <input asp-for="Day" placeholder="Enter Day" class="from-control"/>
+                <br />
+                <br />
+                <select asp-for="Month" class="form-control" asp-items="Html.GetEnumSelectList<Month>()">
+                    @* if the _ViewExport doesn't have @using TagHelpersDemo.Models then, u can get error *@
+                    <option>Select Month </option>
+                </select>
+                <br />
+                <input asp-for="Year" placeholder="Enter Year" class="form-control" />
+                <br />
+                <textarea asp-for="Description" placeholder="Provide any specific description" ></textarea>
+                <br />
+                <br />
+                <input type="submit" value="Submit" class="form-control btn-outline-primary"/>
+                <br />
+             </form>
+         </div>
+     </div>
+ </div>
