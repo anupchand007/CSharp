@@ -1,6 +1,6 @@
-﻿using ReposiortyPattern.Models;
+﻿using RepositoryPattern.Models;
 
-namespace ReposiortyPattern.Repository
+namespace RepositoryPattern.Repository
 {
     public interface IStudent
     {

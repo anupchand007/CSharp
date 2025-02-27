@@ -1,9 +1,9 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using ReposiortyPattern.Models;
-using ReposiortyPattern.Repository;
+using RepositoryPattern.Models;
+using RepositoryPattern.Repository;
 
-namespace ReposiortyPattern.Controllers;
+namespace RepositoryPattern.Controllers;
 
 public class HomeController : Controller
 {

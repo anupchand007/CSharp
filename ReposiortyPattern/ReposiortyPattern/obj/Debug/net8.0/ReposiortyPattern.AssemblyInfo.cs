@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReposiortyPattern")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+123e7951bc55807256d9fd2592a07ce40594695b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61aa226f9655598134cc18622727046613fbbcc6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReposiortyPattern")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReposiortyPattern")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,4 +1,4 @@
-﻿namespace ReposiortyPattern.Models
+﻿namespace RepositoryPattern.Models
 {
     public class StudentModel
     {

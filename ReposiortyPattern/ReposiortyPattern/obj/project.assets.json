@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anup\\source\\repos\\ReposiortyPattern\\ReposiortyPattern\\ReposiortyPattern.csproj",
-      "projectName": "ReposiortyPattern",
-      "projectPath": "C:\\Users\\Anup\\source\\repos\\ReposiortyPattern\\ReposiortyPattern\\ReposiortyPattern.csproj",
+      "projectUniqueName": "C:\\Users\\Anup\\source\\repos\\ReposiortyPattern\\ReposiortyPattern\\RepositoryPattern.csproj",
+      "projectName": "RepositoryPattern",
+      "projectPath": "C:\\Users\\Anup\\source\\repos\\ReposiortyPattern\\ReposiortyPattern\\RepositoryPattern.csproj",
       "packagesPath": "C:\\Users\\Anup\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Anup\\source\\repos\\ReposiortyPattern\\ReposiortyPattern\\obj\\",
       "projectStyle": "PackageReference",
