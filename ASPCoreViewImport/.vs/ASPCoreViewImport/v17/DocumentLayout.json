@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anup\\source\\repos\\ASPCoreViewImport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F634D0AC-DE76-4DED-9779-3D978DD586C3}|ASPCoreViewImport\\ASPCoreViewImport.csproj|c:\\users\\anup\\source\\repos\\aspcoreviewimport\\aspcoreviewimport\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F634D0AC-DE76-4DED-9779-3D978DD586C3}|ASPCoreViewImport\\ASPCoreViewImport.csproj|solutionrelative:aspcoreviewimport\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F634D0AC-DE76-4DED-9779-3D978DD586C3}|ASPCoreViewImport\\ASPCoreViewImport.csproj|c:\\users\\anup\\source\\repos\\aspcoreviewimport\\aspcoreviewimport\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F634D0AC-DE76-4DED-9779-3D978DD586C3}|ASPCoreViewImport\\ASPCoreViewImport.csproj|solutionrelative:aspcoreviewimport\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F634D0AC-DE76-4DED-9779-3D978DD586C3}|ASPCoreViewImport\\ASPCoreViewImport.csproj|c:\\users\\anup\\source\\repos\\aspcoreviewimport\\aspcoreviewimport\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F634D0AC-DE76-4DED-9779-3D978DD586C3}|ASPCoreViewImport\\ASPCoreViewImport.csproj|solutionrelative:aspcoreviewimport\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F634D0AC-DE76-4DED-9779-3D978DD586C3}|ASPCoreViewImport\\ASPCoreViewImport.csproj|c:\\users\\anup\\source\\repos\\aspcoreviewimport\\aspcoreviewimport\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F634D0AC-DE76-4DED-9779-3D978DD586C3}|ASPCoreViewImport\\ASPCoreViewImport.csproj|solutionrelative:aspcoreviewimport\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F634D0AC-DE76-4DED-9779-3D978DD586C3}|ASPCoreViewImport\\ASPCoreViewImport.csproj|c:\\users\\anup\\source\\repos\\aspcoreviewimport\\aspcoreviewimport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F634D0AC-DE76-4DED-9779-3D978DD586C3}|ASPCoreViewImport\\ASPCoreViewImport.csproj|solutionrelative:aspcoreviewimport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F634D0AC-DE76-4DED-9779-3D978DD586C3}|ASPCoreViewImport\\ASPCoreViewImport.csproj|c:\\users\\anup\\source\\repos\\aspcoreviewimport\\aspcoreviewimport\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F634D0AC-DE76-4DED-9779-3D978DD586C3}|ASPCoreViewImport\\ASPCoreViewImport.csproj|solutionrelative:aspcoreviewimport\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F634D0AC-DE76-4DED-9779-3D978DD586C3}|ASPCoreViewImport\\ASPCoreViewImport.csproj|c:\\users\\anup\\source\\repos\\aspcoreviewimport\\aspcoreviewimport\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F634D0AC-DE76-4DED-9779-3D978DD586C3}|ASPCoreViewImport\\ASPCoreViewImport.csproj|solutionrelative:aspcoreviewimport\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\ASPCoreViewImport\\ASPCoreViewImport\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ASPCoreViewImport\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\ASPCoreViewImport\\ASPCoreViewImport\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ASPCoreViewImport\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T04:02:26.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\ASPCoreViewImport\\ASPCoreViewImport\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ASPCoreViewImport\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\ASPCoreViewImport\\ASPCoreViewImport\\Models\\Student.cs",
+              "RelativeToolTip": "ASPCoreViewImport\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T03:46:51.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\ASPCoreViewImport\\ASPCoreViewImport\\Program.cs",
+              "RelativeDocumentMoniker": "ASPCoreViewImport\\Program.cs",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\ASPCoreViewImport\\ASPCoreViewImport\\Program.cs",
+              "RelativeToolTip": "ASPCoreViewImport\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T03:44:48.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\ASPCoreViewImport\\ASPCoreViewImport\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "ASPCoreViewImport\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\ASPCoreViewImport\\ASPCoreViewImport\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "ASPCoreViewImport\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T03:44:39.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\ASPCoreViewImport\\ASPCoreViewImport\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "ASPCoreViewImport\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\ASPCoreViewImport\\ASPCoreViewImport\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "ASPCoreViewImport\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T03:44:19.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\ASPCoreViewImport\\ASPCoreViewImport\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASPCoreViewImport\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\ASPCoreViewImport\\ASPCoreViewImport\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ASPCoreViewImport\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T03:43:18.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\ASPCoreViewImport\\ASPCoreViewImport\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ASPCoreViewImport\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\ASPCoreViewImport\\ASPCoreViewImport\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ASPCoreViewImport\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwCQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T03:42:41.595Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

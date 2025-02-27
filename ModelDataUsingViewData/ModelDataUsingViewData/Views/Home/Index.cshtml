@@ -1,0 +1,82 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+
+    //when usign single object
+
+    // var ViewDataEmp = ViewData["myEmployee"] as Employee;
+    // var ViewBagEmp = ViewBag.myEmployee;
+    // var TempDataEmp = TempData["myEmployee"] as Employee;
+
+    //when usign one than on Object
+    var ViewDataEmp2 = ViewData["myEmployee"] as List<Employee>; 
+    var ViewBagEmp2 = ViewBag.myEmployee;
+    var TempDataEmp2 = TempData["myEmployee"] as List<Employee>;
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<h2 style="text-align: center">Employee Data</h2>
+
+@* //When we have single object
+
+<h1>1. ViewData Method</h1>
+
+<h2>Emp_ID: @ViewDataEmp.EmpId</h2>
+<h2>Emp_Name: @ViewDataEmp.Name</h2>
+<h2>Emp_Salary: @ViewDataEmp.salary</h2>
+
+<h1>2. ViewBag Method</h1>
+
+<h2>Emp_ID: @ViewBagEmp.EmpId</h2>
+<h2>Emp_Name: @ViewBagEmp.Name</h2>
+<h2>Emp_Salary: @ViewBagEmp.salary</h2>
+
+<h1>3. TempData Method</h1>
+
+<h2>Emp_ID: @TempDataEmp.EmpId</h2>
+<h2>Emp_Name: @TempDataEmp.Name</h2>
+<h2>Emp_Salary: @TempDataEmp.salary</h2>
+ *@
+
+
+//when we have multiple objects
+
+
+<h1>1. ViewData Method</h1>
+
+@{
+    if(ViewDataEmp2 != null)
+    {
+        foreach (var emp in ViewDataEmp2)
+        {
+            <h2>Emp_ID: @emp.EmpId</h2>
+            <h2>Emp_Name: @emp.Name</h2>
+            <h2>Emp_Salary: @emp.salary</h2>
+    }
+    }
+    
+}
+
+<h1>2. ViewBag Method</h1>
+@{
+    foreach (var emp in ViewBagEmp2)
+    {
+        <h2>Emp_ID: @emp.EmpId</h2>
+        <h2>Emp_Name: @emp.Name</h2>
+        <h2>Emp_Salary: @emp.salary</h2>
+    }
+}
+
+<h1>3. TempData Method</h1>
+@{
+    foreach (var emp in TempDataEmp2)
+    {
+        <h2>Emp_ID: @emp.EmpId</h2>
+        <h2>Emp_Name: @emp.Name</h2>
+        <h2>Emp_Salary: @emp.salary</h2>
+    }
+}
+

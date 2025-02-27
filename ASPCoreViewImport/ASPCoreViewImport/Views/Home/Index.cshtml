@@ -1,0 +1,15 @@
+﻿@model List<Student>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+@{
+    foreach(var st in Model)
+    {
+        <h2>Std_ID: @st.StdID</h2>
+        <h2>Std_Name: @st.Name</h2>
+        <h2>Std_Gender: @st.Gender</h2>
+    }
+}
+

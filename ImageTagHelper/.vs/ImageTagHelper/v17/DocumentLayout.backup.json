@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anup\\source\\repos\\ImageTagHelper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA09A55F-703F-47A7-B587-3BB542C4F651}|ImageTagHelper\\ImageTagHelper.csproj|c:\\users\\anup\\source\\repos\\imagetaghelper\\imagetaghelper\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA09A55F-703F-47A7-B587-3BB542C4F651}|ImageTagHelper\\ImageTagHelper.csproj|solutionrelative:imagetaghelper\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA09A55F-703F-47A7-B587-3BB542C4F651}|ImageTagHelper\\ImageTagHelper.csproj|c:\\users\\anup\\source\\repos\\imagetaghelper\\imagetaghelper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA09A55F-703F-47A7-B587-3BB542C4F651}|ImageTagHelper\\ImageTagHelper.csproj|solutionrelative:imagetaghelper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA09A55F-703F-47A7-B587-3BB542C4F651}|ImageTagHelper\\ImageTagHelper.csproj|c:\\users\\anup\\source\\repos\\imagetaghelper\\imagetaghelper\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA09A55F-703F-47A7-B587-3BB542C4F651}|ImageTagHelper\\ImageTagHelper.csproj|solutionrelative:imagetaghelper\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\ImageTagHelper\\ImageTagHelper\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ImageTagHelper\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\ImageTagHelper\\ImageTagHelper\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ImageTagHelper\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T05:20:25.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\ImageTagHelper\\ImageTagHelper\\Program.cs",
+              "RelativeDocumentMoniker": "ImageTagHelper\\Program.cs",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\ImageTagHelper\\ImageTagHelper\\Program.cs",
+              "RelativeToolTip": "ImageTagHelper\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T05:17:12.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\ImageTagHelper\\ImageTagHelper\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ImageTagHelper\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\ImageTagHelper\\ImageTagHelper\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ImageTagHelper\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T05:16:48.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

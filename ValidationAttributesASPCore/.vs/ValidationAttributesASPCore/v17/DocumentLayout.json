@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anup\\source\\repos\\ValidationAttributesASPCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{070D853B-1EFC-4CC8-8625-2700BE08C900}|ValidationAttributesASPCore\\ValidationAttributesASPCore.csproj|c:\\users\\anup\\source\\repos\\validationattributesaspcore\\validationattributesaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070D853B-1EFC-4CC8-8625-2700BE08C900}|ValidationAttributesASPCore\\ValidationAttributesASPCore.csproj|solutionrelative:validationattributesaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070D853B-1EFC-4CC8-8625-2700BE08C900}|ValidationAttributesASPCore\\ValidationAttributesASPCore.csproj|c:\\users\\anup\\source\\repos\\validationattributesaspcore\\validationattributesaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{070D853B-1EFC-4CC8-8625-2700BE08C900}|ValidationAttributesASPCore\\ValidationAttributesASPCore.csproj|solutionrelative:validationattributesaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070D853B-1EFC-4CC8-8625-2700BE08C900}|ValidationAttributesASPCore\\ValidationAttributesASPCore.csproj|c:\\users\\anup\\source\\repos\\validationattributesaspcore\\validationattributesaspcore\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070D853B-1EFC-4CC8-8625-2700BE08C900}|ValidationAttributesASPCore\\ValidationAttributesASPCore.csproj|solutionrelative:validationattributesaspcore\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\ValidationAttributesASPCore\\ValidationAttributesASPCore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ValidationAttributesASPCore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\ValidationAttributesASPCore\\ValidationAttributesASPCore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ValidationAttributesASPCore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T09:45:45.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\ValidationAttributesASPCore\\ValidationAttributesASPCore\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ValidationAttributesASPCore\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\ValidationAttributesASPCore\\ValidationAttributesASPCore\\Models\\Student.cs",
+              "RelativeToolTip": "ValidationAttributesASPCore\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T09:45:03.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Anup\\source\\repos\\ValidationAttributesASPCore\\ValidationAttributesASPCore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ValidationAttributesASPCore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Anup\\source\\repos\\ValidationAttributesASPCore\\ValidationAttributesASPCore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ValidationAttributesASPCore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T09:45:29.241Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
