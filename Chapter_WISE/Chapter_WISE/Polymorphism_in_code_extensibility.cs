@@ -12,19 +12,19 @@
 
 class Program
 {
-    static void Main()
-    {
-        Student s = new Student();
+    //static void Main()
+    //{
+    //    Student s = new Student();
 
-        // Assign values using the indexer
-        s[0] = "Anup";
-        s[1] = "Bimal";
-        s[2] = "Niroj";
+    //    // Assign values using the indexer
+    //    s[0] = "Anup";
+    //    s[1] = "Bimal";
+    //    s[2] = "Niroj";
 
-        // Retrieve values using the indexer
-        for (int i = 0; i < 3; i++)
-        {
-            Console.WriteLine(s[i]);  // Output: Anup, Bimal, Niroj
-        }
-    }
+    //    // Retrieve values using the indexer
+    //    for (int i = 0; i < 3; i++)
+    //    {
+    //        Console.WriteLine(s[i]);  // Output: Anup, Bimal, Niroj
+    //    }
+    //}
 }

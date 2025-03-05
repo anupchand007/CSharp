@@ -29,24 +29,24 @@
 
     class Indexer
     {
-        static void Main()
-        {
+        //static void Main()
+        //{
 
-            IndexerDemo demo = new IndexerDemo();
-            demo[0] = 25;
-            demo[2] = 45;
-            demo[4] = 35;
-            demo[6] = 75;
-            //Console.WriteLine($"The values of Students are {demo[0]},{demo[2]}, {demo[4]}, {demo[6]}");
+        //    IndexerDemo demo = new IndexerDemo();
+        //    demo[0] = 25;
+        //    demo[2] = 45;
+        //    demo[4] = 35;
+        //    demo[6] = 75;
+        //    //Console.WriteLine($"The values of Students are {demo[0]},{demo[2]}, {demo[4]}, {demo[6]}");
 
-            InderxerString demo2 = new InderxerString();
-            demo2[2] = "Anup Chand";
-            demo2[4] = "Purvi Shrestha";
-            demo2[6] = "Aarav Chand";
+        //    InderxerString demo2 = new InderxerString();
+        //    demo2[2] = "Anup Chand";
+        //    demo2[4] = "Purvi Shrestha";
+        //    demo2[6] = "Aarav Chand";
 
-            Console.WriteLine($"The name and age of the {demo2[2]} student is {demo[2]}");
-            Console.WriteLine($"The name and age of the {demo2[4]} student is {demo[4]}");
-            Console.WriteLine($"The name and age of the {demo2[6]} student is {demo[6]}");
-        }
+        //    Console.WriteLine($"The name and age of the {demo2[2]} student is {demo[2]}");
+        //    Console.WriteLine($"The name and age of the {demo2[4]} student is {demo[4]}");
+        //    Console.WriteLine($"The name and age of the {demo2[6]} student is {demo[6]}");
+        //}
     }
 }

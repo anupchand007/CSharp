@@ -22,16 +22,16 @@
 
     class PartialClassDemo
     {
-        static void Main()
-        {
-            // Creating an object of the partial class
-            My_Class mee = new My_Class();
+        //static void Main()
+        //{
+        //    // Creating an object of the partial class
+        //    My_Class mee = new My_Class();
 
-            // Calling methods from both parts of the partial class
-            mee.M2();
-            mee.M1();
+        //    // Calling methods from both parts of the partial class
+        //    mee.M2();
+        //    mee.M1();
 
-            Console.ReadLine(); // Keeps console open until input is given
-        }
+        //    Console.ReadLine(); // Keeps console open until input is given
+        //}
     }
 }

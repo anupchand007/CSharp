@@ -1,0 +1,14 @@
+C:\Users\PrimeUser\source\repos\Pratical\Pratical\bin\Debug\net8.0\Pratical.exe
+C:\Users\PrimeUser\source\repos\Pratical\Pratical\bin\Debug\net8.0\Pratical.deps.json
+C:\Users\PrimeUser\source\repos\Pratical\Pratical\bin\Debug\net8.0\Pratical.runtimeconfig.json
+C:\Users\PrimeUser\source\repos\Pratical\Pratical\bin\Debug\net8.0\Pratical.dll
+C:\Users\PrimeUser\source\repos\Pratical\Pratical\bin\Debug\net8.0\Pratical.pdb
+C:\Users\PrimeUser\source\repos\Pratical\Pratical\obj\Debug\net8.0\Pratical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PrimeUser\source\repos\Pratical\Pratical\obj\Debug\net8.0\Pratical.AssemblyInfoInputs.cache
+C:\Users\PrimeUser\source\repos\Pratical\Pratical\obj\Debug\net8.0\Pratical.AssemblyInfo.cs
+C:\Users\PrimeUser\source\repos\Pratical\Pratical\obj\Debug\net8.0\Pratical.csproj.CoreCompileInputs.cache
+C:\Users\PrimeUser\source\repos\Pratical\Pratical\obj\Debug\net8.0\Pratical.dll
+C:\Users\PrimeUser\source\repos\Pratical\Pratical\obj\Debug\net8.0\refint\Pratical.dll
+C:\Users\PrimeUser\source\repos\Pratical\Pratical\obj\Debug\net8.0\Pratical.pdb
+C:\Users\PrimeUser\source\repos\Pratical\Pratical\obj\Debug\net8.0\Pratical.genruntimeconfig.cache
+C:\Users\PrimeUser\source\repos\Pratical\Pratical\obj\Debug\net8.0\ref\Pratical.dll

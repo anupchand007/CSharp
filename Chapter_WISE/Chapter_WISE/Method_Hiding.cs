@@ -35,16 +35,16 @@
     // Entry point of the program
     class Method_Hiding
     {
-        static void Main()
-        {
-            // Creating an object of DerivedClass but referencing it as BaseClass
-            BaseClass obj = new DerivedClass();
+        //static void Main()
+        //{
+        //    // Creating an object of DerivedClass but referencing it as BaseClass
+        //    BaseClass obj = new DerivedClass();
 
-            // Calls the overridden method from DerivedClass
-            obj.Greeting1();
+        //    // Calls the overridden method from DerivedClass
+        //    obj.Greeting1();
 
-            // Calls the base class method due to method hiding (not overriding)
-            obj.Greeting2();
-        }
+        //    // Calls the base class method due to method hiding (not overriding)
+        //    obj.Greeting2();
+        //}
     }
 }

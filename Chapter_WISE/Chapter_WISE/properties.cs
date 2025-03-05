@@ -13,12 +13,12 @@
         }
     }
 
-    class Properties { 
-    static void Main()
-        {
-            Props p1 = new Props();
-            p1.Name = "Anup Chand";
-            Console.WriteLine(p1.Name);
-        }
-    }
+    //class Properties { 
+    //static void Main()
+    //    {
+    //        Props p1 = new Props();
+    //        p1.Name = "Anup Chand";
+    //        Console.WriteLine(p1.Name);
+    //    }
+    //}
 }

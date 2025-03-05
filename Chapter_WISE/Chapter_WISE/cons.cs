@@ -19,11 +19,11 @@
 
     class Cosntructors
     {
-        static void Main()
-        {
-            Cons def1 = new Cons();
-            Cons para1 = new Cons(22);
-        }
+        //static void Main()
+        //{
+        //    Cons def1 = new Cons();
+        //    Cons para1 = new Cons(22);
+        //}
     }
 }
 

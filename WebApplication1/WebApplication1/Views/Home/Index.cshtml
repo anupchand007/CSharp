@@ -1,0 +1,28 @@
+﻿@model Student;
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<form asp-action="Index" asp-controller="Home" method="post"> 
+
+    <input type="type" asp-for="StudentId" placeholder="Enter Student ID"/>
+    </br>
+     </br>
+    <input type="type" asp-for="Name" placeholder="Enter Student Name"/>
+     </br>
+    </br>
+    <input type="type" asp-for="RollNo" placeholder="Enter Student Roll Number" />
+     </br>
+    </br>
+    <input type="type" asp-for="Standard" placeholder="Enter Student Class"/>
+    </br>
+    </br>
+
+    <input type="submit" value="Submit" />
+</form>

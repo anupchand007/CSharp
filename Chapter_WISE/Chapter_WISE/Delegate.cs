@@ -24,21 +24,21 @@
             stringDelegate(text); // Calls the delegate method to process the text
         }
 
-        static void Main()
-        {
-            // Create a delegate instance pointing to the ToUpperCase method
-            StringDelegate stringDelegate = ToUpperCase;
+        //static void Main()
+        //{
+        //    // Create a delegate instance pointing to the ToUpperCase method
+        //    StringDelegate stringDelegate = ToUpperCase;
 
-            // Uncomment this line to call ToUpperCase directly via the delegate
-            //stringDelegate("this is lower case");
+        //    // Uncomment this line to call ToUpperCase directly via the delegate
+        //    //stringDelegate("this is lower case");
 
-            // Uncomment the following lines to use ToLowerCase via another delegate
-            StringDelegate stringDelegate2 = ToLowerCase;
-            stringDelegate2.Invoke("this is upper case");       //using invoke method
+        //    // Uncomment the following lines to use ToLowerCase via another delegate
+        //    StringDelegate stringDelegate2 = ToLowerCase;
+        //    stringDelegate2.Invoke("this is upper case");       //using invoke method
 
-            // Call WriteOutput with the "stringDelegate" (ToUpperCase method)
-            WriteOutput("This is a lower case", stringDelegate);
-        }
+        //    // Call WriteOutput with the "stringDelegate" (ToUpperCase method)
+        //    WriteOutput("This is a lower case", stringDelegate);
+        //}
     }
 }
 

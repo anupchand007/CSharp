@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PrimeUser\\source\\repos\\Pratical\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5639497A-6432-4C82-A652-AED443BD1D02}|Pratical\\Pratical.csproj|c:\\users\\primeuser\\source\\repos\\pratical\\pratical\\exceptionhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5639497A-6432-4C82-A652-AED443BD1D02}|Pratical\\Pratical.csproj|solutionrelative:pratical\\exceptionhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5639497A-6432-4C82-A652-AED443BD1D02}|Pratical\\Pratical.csproj|c:\\users\\primeuser\\source\\repos\\pratical\\pratical\\pratical.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5639497A-6432-4C82-A652-AED443BD1D02}|Pratical\\Pratical.csproj|solutionrelative:pratical\\pratical.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5639497A-6432-4C82-A652-AED443BD1D02}|Pratical\\Pratical.csproj|c:\\users\\primeuser\\source\\repos\\pratical\\pratical\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5639497A-6432-4C82-A652-AED443BD1D02}|Pratical\\Pratical.csproj|solutionrelative:pratical\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pratical",
+              "DocumentMoniker": "C:\\Users\\PrimeUser\\source\\repos\\Pratical\\Pratical\\Pratical.csproj",
+              "RelativeDocumentMoniker": "Pratical\\Pratical.csproj",
+              "ToolTip": "C:\\Users\\PrimeUser\\source\\repos\\Pratical\\Pratical\\Pratical.csproj",
+              "RelativeToolTip": "Pratical\\Pratical.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-05T15:33:13.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExceptionHandling.cs",
+              "DocumentMoniker": "C:\\Users\\PrimeUser\\source\\repos\\Pratical\\Pratical\\ExceptionHandling.cs",
+              "RelativeDocumentMoniker": "Pratical\\ExceptionHandling.cs",
+              "ToolTip": "C:\\Users\\PrimeUser\\source\\repos\\Pratical\\Pratical\\ExceptionHandling.cs*",
+              "RelativeToolTip": "Pratical\\ExceptionHandling.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:32:42.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PrimeUser\\source\\repos\\Pratical\\Pratical\\Program.cs",
+              "RelativeDocumentMoniker": "Pratical\\Program.cs",
+              "ToolTip": "C:\\Users\\PrimeUser\\source\\repos\\Pratical\\Pratical\\Program.cs",
+              "RelativeToolTip": "Pratical\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:26:43.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

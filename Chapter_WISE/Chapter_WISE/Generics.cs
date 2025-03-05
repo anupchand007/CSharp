@@ -16,23 +16,23 @@ namespace Chapter_WISE
             }
             Console.WriteLine();
         }
-        static void Main()
-        {
-            //generic = "not specific to a particular data type"
-            //           add<T> to: classes, methods, fields etc
-            //           allows for code reusability for different types
+        //static void Main()
+        //{
+        //    //generic = "not specific to a particular data type"
+        //    //           add<T> to: classes, methods, fields etc
+        //    //           allows for code reusability for different types
 
-            int[] intArray = { 1, 2, 3, 4 };
-            double[] doubleArray = { 1.0, 2.0, 3.0, 4.0 };
-            string[] stringArray = { "1", "2", "3", "4" };
+        //    int[] intArray = { 1, 2, 3, 4 };
+        //    double[] doubleArray = { 1.0, 2.0, 3.0, 4.0 };
+        //    string[] stringArray = { "1", "2", "3", "4" };
 
-            // Since displayElements is a static method, we can call it directly 
-            // without creating an instance of the Generics class.
+        //    // Since displayElements is a static method, we can call it directly 
+        //    // without creating an instance of the Generics class.
 
-            displayELements(intArray);
-            displayELements(doubleArray);
-            displayELements(stringArray);
-        }
+        //    displayELements(intArray);
+        //    displayELements(doubleArray);
+        //    displayELements(stringArray);
+        //}
 
 
     }

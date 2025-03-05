@@ -48,20 +48,20 @@
 
         class InterfaceProgram
         {
-            static void Main()
-            {
-                Rabbit rabbit = new Rabbit();
-                rabbit.Run();
-                //rabbit.Hunt();      //we will get error it only inhertis one class i.e IPrey
+            //static void Main()
+            //{
+            //    Rabbit rabbit = new Rabbit();
+            //    rabbit.Run();
+            //    //rabbit.Hunt();      //we will get error it only inhertis one class i.e IPrey
 
-                Hawk hawk = new Hawk();
-                //hwak.Run();         //we will get error it only inhertis one class i.e IPredator
-                hawk.Hunt();
+            //    Hawk hawk = new Hawk();
+            //    //hwak.Run();         //we will get error it only inhertis one class i.e IPredator
+            //    hawk.Hunt();
 
-                Fish fish = new Fish();     // in this well can use both classes with the help of Interface
-                fish.Run();
-                fish.Hunt();
-            }
+            //    Fish fish = new Fish();     // in this well can use both classes with the help of Interface
+            //    fish.Run();
+            //    fish.Hunt();
+            //}
         }
 
 

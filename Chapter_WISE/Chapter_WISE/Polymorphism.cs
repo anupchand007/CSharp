@@ -36,17 +36,17 @@
 
     class PrintPoly
     {
-        static void Main()
-        {
-            Polymorphism pol1 = new Polymorphism();
-            pol1.setData("Parent Class", 99);
-            pol1.Greeting();
-            pol1.showdata();
-            Purvi p1 = new Purvi();
-            p1.setData("Anup Chand", 22);
-            p1.showdata();
-            p1.Greeting();
+        //static void Main()
+        //{
+        //    Polymorphism pol1 = new Polymorphism();
+        //    pol1.setData("Parent Class", 99);
+        //    pol1.Greeting();
+        //    pol1.showdata();
+        //    Purvi p1 = new Purvi();
+        //    p1.setData("Anup Chand", 22);
+        //    p1.showdata();
+        //    p1.Greeting();
 
-        }
+        //}
     }
 }

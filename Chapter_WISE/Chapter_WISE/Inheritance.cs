@@ -31,15 +31,15 @@
 
 
     class Inheritance { 
-    static void Main()
-        {
-            Person p1 = new Person();
-            p1.Setdata("Anup Chand", 22);
-            p1.Showdata();
+    //static void Main()
+    //    {
+    //        Person p1 = new Person();
+    //        p1.Setdata("Anup Chand", 22);
+    //        p1.Showdata();
 
-            Anup a1 = new Anup();
-            a1.Setdata("Purvi", 22);
-            a1.Showdata();
-        }
+    //        Anup a1 = new Anup();
+    //        a1.Setdata("Purvi", 22);
+    //        a1.Showdata();
+    //    }
     }
 }
